@@ -20,13 +20,13 @@ Na primeira etapa, foi realizada uma análise exploratória dos dados climático
 Aqui estão alguns dos gráficos gerados para visualizar os dados:
 
 1. **Gráfico 1: Distribuição da Temperatura Real e Aparente ao Longo do Ano**
-   ![Gráfico 1](path/to/your/image1.png)
+   ![Gráfico 1](https://github.com/andrewgabr/Analise_Clim-tica_Szeged-Regressao/blob/main/imgs/1.png?raw=true)
 
 2. **Gráfico 2: Correlação entre Temperatura Real e Aparente**
-   ![Gráfico 2](path/to/your/image2.png)
+   ![Gráfico 2](https://github.com/andrewgabr/Analise_Clim-tica_Szeged-Regressao/blob/main/imgs/2.png?raw=true)
 
 3. **Gráfico 3: Variação da Umidade ao Longo dos Meses**
-   ![Gráfico 3](path/to/your/image3.png)
+   ![Gráfico 3](https://github.com/andrewgabr/Analise_Clim-tica_Szeged-Regressao/blob/main/imgs/3.png?raw=true)
 
 ### Etapa 2: Aplicação de Machine Learning
 Na segunda etapa, aplicamos um modelo de **Machine Learning** para prever a temperatura com base em variáveis como umidade, velocidade do vento e condições climáticas. O modelo foi treinado e validado, alcançando um excelente desempenho.
