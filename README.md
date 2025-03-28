@@ -31,7 +31,7 @@ Aqui estão alguns dos gráficos gerados para visualizar os dados:
 ### Etapa 2: Aplicação de Machine Learning
 Na segunda etapa, aplicamos um modelo de **Machine Learning** para prever a temperatura com base em variáveis como umidade, velocidade do vento e condições climáticas. O modelo foi treinado e validado, alcançando um excelente desempenho.
 
-- **Modelo utilizado**: [Inserir o modelo de Machine Learning utilizado, como Random Forest, Regressão Linear, etc.]
+- **Modelo utilizado**: Linear Regression / Random Forest
 - **R² alcançado**: 91% (indica que o modelo explica 91% da variabilidade da temperatura, o que é considerado um excelente desempenho para esse tipo de tarefa).
 
 ## Conclusão
