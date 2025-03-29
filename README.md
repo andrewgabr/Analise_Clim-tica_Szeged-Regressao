@@ -32,14 +32,6 @@ Aqui estão alguns dos gráficos gerados para visualizar os dados:
 Na segunda etapa, aplicamos um modelo de **Machine Learning** para prever a temperatura com base em variáveis como umidade, velocidade do vento e condições climáticas. O modelo foi treinado e validado, alcançando um excelente desempenho.
 
 - **Modelo utilizado**: Linear Regression / Random Forest
-- **R² alcançado**: 91% (indica que o modelo explica 91% da variabilidade da temperatura, o que é considerado um excelente desempenho para esse tipo de tarefa).
+- **R² alcançado**: 91% (indica que o modelo explica 91% da variabilidade da temperatura)
 
-## Conclusão
-O modelo foi capaz de prever a temperatura com alta precisão, o que pode ser útil para futuras análises climáticas ou previsões. Além disso, a análise exploratória revelou informações valiosas sobre as variáveis climáticas e suas relações, fornecendo insights importantes sobre o clima da região de Szeged.
 
-## Como rodar o código
-Para rodar o código do projeto, siga os seguintes passos:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/andrewgabr/Analise_Clim-tica_Szeged-Regressao.git
