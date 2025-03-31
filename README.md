@@ -19,7 +19,7 @@ Na primeira etapa, foi realizada uma análise exploratória dos dados climático
 #### Gráficos da Etapa 1
 Aqui estão alguns dos gráficos gerados para visualizar os dados:
 
-1. **Gráfico 1: Distribuição da Temperatura Real e Aparente ao Longo do Ano**
+1. **Gráfico 1: Distribuição da categoria climatica**
    ![Gráfico 1](https://github.com/andrewgabr/Analise_Clim-tica_Szeged-Regressao/blob/main/imgs/1.png?raw=true)
 
 2. **Gráfico 2: Correlação entre Temperatura Real e Aparente**
